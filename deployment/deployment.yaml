@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: springboot-hello
-          image: tuo-utente-dockerhub/springboot-hello
+          image: he02/springboot-hello
           ports:
             - containerPort: 8080
